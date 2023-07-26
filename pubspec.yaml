@@ -8,7 +8,11 @@ environment:
 
 # Add regular dependencies here.
 dependencies:
+  build_runner: ^2.4.6
   shelf: ^1.4.1
+  shelf_router: ^1.1.4
+  shelf_router_generator: ^1.0.6
+  shelf_static: ^1.1.2
   # path: ^1.8.0
 
 dev_dependencies:
